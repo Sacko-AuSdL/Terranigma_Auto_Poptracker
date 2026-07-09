@@ -10,8 +10,8 @@
           [ "topaz", "radewdrop", "giantleaves", "sharpclaws", "airplane", "", "", "parasite", "rachests" ],
           [ "sapphire", "holyseal", "redscarf", "snowgrassleaf", "starstones", "", "", "darktwins", "greatcliffchest" ],
           [ "ruby", "sewerkey",  "airherb", "engagementring", "magicanchor", "", "", "stormkeeper", "zuechest" ],
-          [ "blackopal", "protectbell", "dogwhistle", "speedboots", "flower", "", "", "darkmorph", "eklamatachest" ],
-          [ "towerkey", "", "", "", "", "penguinea", "airsrock", "louran", "louranchest" ],
+          [ "blackopal", "protectbell", "dogwhistle", "towerkey", "flower", "", "", "darkmorph", "eklamatachest" ],
+          [ "", "", "", "", "", "penguinea", "airsrock", "louran", "louranchest" ],
           [ "checks_done", "mermaidtower", "bloodymary", "hitoderon", "robot", "neotokio", "astarika", "norfest", "dragooncastle" ],
           [ "castle", "mermaidschest", "sylvainchest", "greatlakeschest", "berugaslabchest", "neotokiochest", "astarikachest", "forestchest", "dragoonchest" ]
         ]
